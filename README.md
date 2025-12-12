@@ -10,7 +10,7 @@ I am a graduate of electrical/electronics engineering (2011-2016) where I master
 
 In 2024, during my masters in Biomedical engineering, I delved into machine learning/AI with application in the medical field.
 
-I am the founder of <a href="https://sightinn.com" style="text-decoration: underline;">SIGHT-INNOVATION LLC</a>: an electronics and software company
+I am the founder of <a href="https://sightinn.com" style="text-decoration: underline;">SIGHT-INNOVATION LLC</a> an electronics and software company
 
 <h2>😊 ENOUGH OF ME</h2>
 
